@@ -5,4 +5,4 @@ This is the fit used in
 Cybulski, H; Henriksen, C; Dawes, R; Wang, X-G; Bora N; Avila, G; Carrington, T; Fernandez, B:
 "Ab initio study of the CO–N 2 complex: A new highly accurate
 intermolecular potential energy surface and rovibrational spectrum"
-To appear in Physical Chemistry Chemical Physics 
+Submitted to Physical Chemistry Chemical Physics 
